@@ -16,7 +16,7 @@ EDeleteConfirm.create_popup_window()
 
 ## Usage
 
-Whenever you need to delete keyframes or objects in Maya, press the assigned hotkey.
+Whenever you need to delete in Maya, press the assigned hotkey.
 
 The EDeleteConfirm dialog will appear, asking for confirmation before deletion:
 
